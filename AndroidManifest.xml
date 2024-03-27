@@ -22,7 +22,7 @@
             </intent-filter>
 
             <intent-filter>
-                <data android:host="auth" android:scheme="SPOTIFY-TRIAL-RUN"/>
+                <data android:host="auth" android:scheme="com.example.spotifytutorialtrialrun"/>
             </intent-filter>
 
         </activity>
